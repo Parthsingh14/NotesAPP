@@ -1,6 +1,4 @@
-Parthsingh14: Write the readme file on basis of frontend and Backend folder. DO every nessicities
 
-Workspace: Collecting workspace information```markdown
 # NotesApp
 
 A full-stack Notes application with a **React/Next.js** frontend and an **Express/MongoDB** backend.
